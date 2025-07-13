@@ -45,6 +45,10 @@ See more examples by running the follow command.
 python sinusoidal_pe.py
 ```
 
+```python
+python example.py
+```
+
 ## Tips
 
 Tune the `scale` argument so that the positional embedding curve is neither too smooth nor too sharp.
