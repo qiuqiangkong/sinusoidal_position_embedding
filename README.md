@@ -51,6 +51,12 @@ Tune the `scale` argument so that the positional embedding curve is neither too 
 
 ## Visualization of positional embedding
 
+| Name      | Age | Occupation     |
+|-----------|-----|----------------|
+| Alice     | 30  | Engineer       |
+| Bob       | 25  | Data Scientist |
+| Charlie   | 28  | Designer       |
+
 |  dd     | dd |
 |------------|--------------|------------------|-----------|------------------|
 | <img width="1544" height="1080" alt="token" src="https://github.com/user-attachments/assets/b5dbab22-af8d-45b0-aa5a-7328166fdcd7" />
