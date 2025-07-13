@@ -1,11 +1,12 @@
+import math
+
 import torch
 import torch.nn as nn
 from torch import Tensor
-import math
 
 
 class SinusoidalPE(nn.Module):
-    r"""Sinusodial position embedder.
+    r"""Sinusodial positional embedder.
     """
     def __init__(
         self, 
