@@ -51,6 +51,7 @@ Tune the `scale` argument so that the positional embedding curve is neither too 
 
 ## Visualization of positional embedding
 
+|------------|--------------|------------------|-----------|------------------|
 | |      |
 | |      |
 | |      |
