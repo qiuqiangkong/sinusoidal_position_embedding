@@ -51,7 +51,7 @@ Tune the `scale` argument so that the positional embedding curve is neither too 
 
 ## Visualization of positional embedding
 
-|       |  |
+|  dd     | dd |
 |------------|--------------|------------------|-----------|------------------|
 | <img width="1544" height="1080" alt="token" src="https://github.com/user-attachments/assets/b5dbab22-af8d-45b0-aa5a-7328166fdcd7" />
  |  <img width="1480" height="1074" alt="time" src="https://github.com/user-attachments/assets/10ab9bbc-c4c3-4f5a-9037-09dd56c2fe60" />
